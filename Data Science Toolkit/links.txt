@@ -4,9 +4,3 @@ https://www.youtube.com/watch?v=pDXdlXlaCco - Collecting images
 https://www.youtube.com/watch?v=IOI0o3Cxv9Q - Label images
 https://www.youtube.com/watch?v=UPS54i7Km30 - History
 https://www.youtube.com/watch?v=06TE_U21FK4 - Tracker
-
-Git History
-Git repo
-Git log
-
-Add repos to several git repositories and all need participate we can do this
