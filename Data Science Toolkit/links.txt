@@ -9,4 +9,4 @@ Git History
 Git repo
 Git log
 
-Add repos to several git repositories and all need participate
+Add repos to several git repositories and all need participate we can do this
