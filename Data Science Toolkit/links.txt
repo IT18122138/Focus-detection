@@ -7,4 +7,4 @@ https://www.youtube.com/watch?v=06TE_U21FK4 - Tracker
 
 Git History
 Git update
-Git logg
+Git log
