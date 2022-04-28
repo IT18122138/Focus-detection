@@ -6,5 +6,5 @@ https://www.youtube.com/watch?v=UPS54i7Km30 - History
 https://www.youtube.com/watch?v=06TE_U21FK4 - Tracker
 
 Git History
-Git update
+Git repo
 Git log
